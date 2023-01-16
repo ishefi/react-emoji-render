@@ -1,4 +1,4 @@
-declare module 'react-emoji-render' {
+declare module '@ishefi/react-emoji-render' {
   interface Options {
     protocol?: 'http' | 'https';
     baseUrl?: string;
