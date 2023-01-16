@@ -1,7 +1,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/tommoor/react-emoji-render
+    working_directory: ~/ishefi/react-emoji-render
     parallelism: 1
     shell: /bin/bash --login
     # CircleCI 2.0 does not support environment variables that refer to each other the same way as 1.0 did.
